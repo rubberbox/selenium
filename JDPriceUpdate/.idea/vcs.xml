@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../IPProxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../IPProxyPool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../jd_selenium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../proxy_pool" vcs="Git" />
+  </component>
+</project>
